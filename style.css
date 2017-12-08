@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.parallaxFirstBackgroundImage {
+.FirstBackgroundImage {
   /*background image properties and settings*/
   background-image: url('https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/Summer%202012%20(1%20of%201)-60.jpg?alt=media&token=e8481f5f-59ed-41a7-9995-2348c2cb9ed6');
   background-size: cover;
@@ -22,7 +22,7 @@
   color: white;
 }
 
-.parallaxSecondBackgroundImage {
+.SecondBackgroundImage {
   /*background image properties and settings*/
   background-image: url('https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/Scenic%20Flight%20Elk%20Mountains-1-2.jpg?alt=media&token=ee215e13-029b-4013-a427-6f007e054ac5');
   background-size: cover;
