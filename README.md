@@ -1,2 +1,2 @@
 # Bryan-Parallax-Demo
-<a href src = "https://bryan-paralla.firebaseapp.com/">Hosted website</a>
+<a href="https://bryan-paralla.firebaseapp.com/">Hosted website</a>
