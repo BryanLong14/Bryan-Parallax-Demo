@@ -4,15 +4,8 @@ body, html {
   padding:0;
 }
 
-.FirstBackgroundImage {
-  /*background image properties and settings*/
+.firstBackgroundImage {
   background-image: url('https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/Summer%202012%20(1%20of%201)-60.jpg?alt=media&token=e8481f5f-59ed-41a7-9995-2348c2cb9ed6');
-  background-size: cover;
-  height: 100vh;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
 .colorOverlay {
@@ -22,12 +15,13 @@ body, html {
   color: white;
 }
 
-.SecondBackgroundImage {
-  /*background image properties and settings*/
+.secondBackgroundImage {
   background-image: url('  https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/website-background-blank.png?alt=media&token=ee132168-e2d9-4b77-b04d-4f509665198e');
+}
+
+.parallax{
   background-size: cover;
   height: 100vh;
-  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
