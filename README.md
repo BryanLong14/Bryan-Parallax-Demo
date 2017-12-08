@@ -33,3 +33,6 @@ Feel free to look at my code! All images copyright Bryan Long.
 - In the HTML we have three DIVs that are styled to each be as tall as the browser's viewheight (100VH).
 - If you comment out the "background-attachment: fixed" style on the background images, this gives us three images we can scroll through.
 - Applying a fixed position to the background-attachment attribute on both images sets those two images to remain in place in the browser window. When the user scrolls, the color overlay moves through the images, replacing one background with another.
+
+## The Code
+<img src="ScreenShot.jpg">
