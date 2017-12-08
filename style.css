@@ -25,7 +25,6 @@ body, html {
 .SecondBackgroundImage {
   /*background image properties and settings*/
   background-image: url('  https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/website-background-blank.png?alt=media&token=ee132168-e2d9-4b77-b04d-4f509665198e');
-  /*background-image: url('https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/Scenic%20Flight%20Elk%20Mountains-1-2.jpg?alt=media&token=ee215e13-029b-4013-a427-6f007e054ac5');*/
   background-size: cover;
   height: 100vh;
   /* Create the parallax scrolling effect */
