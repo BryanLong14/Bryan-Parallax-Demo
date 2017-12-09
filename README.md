@@ -5,6 +5,7 @@
 This code adds basic parallax to a site. Specifically, it slides a colored overlay on top of two static background images which change as the user scrolls.
 
 ## See the live version at my [hosted website.](https://bryan-paralla.firebaseapp.com/)
+## Play around with the code at my [CodePen.](https://codepen.io/BryanLong/pen/Zagvde)
 
 ## The Code - HTML
 
