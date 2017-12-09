@@ -1,7 +1,6 @@
 body, html {
-  height: 100%;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 
 .firstBackgroundImage {
@@ -22,6 +21,7 @@ body, html {
 .parallax{
   background-size: cover;
   height: 100vh;
+  /*Experiment by commenting out the background-attachment property below*/
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
