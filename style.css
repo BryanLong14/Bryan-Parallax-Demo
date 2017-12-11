@@ -3,18 +3,16 @@ body, html {
   padding: 0;
 }
 
-.firstBackgroundImage {
+.first-background-image {
   background-image: url('https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/Summer%202012%20(1%20of%201)-60.jpg?alt=media&token=e8481f5f-59ed-41a7-9995-2348c2cb9ed6');
 }
 
-.colorOverlay {
+.color-overlay {
   height: 100vh;
   background-color: black;
-  font-size: 36px;
-  color: white;
 }
 
-.secondBackgroundImage {
+.second-background-image {
   background-image: url('https://firebasestorage.googleapis.com/v0/b/website-bryans-learning.appspot.com/o/website-background-blank.png?alt=media&token=ee132168-e2d9-4b77-b04d-4f509665198e');
 }
 
@@ -23,6 +21,4 @@ body, html {
   height: 100vh;
   /*Experiment by commenting out the background-attachment property below*/
   background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
 }
